@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import requests
 from pushbullet import Pushbullet
 from datetime import datetime
